@@ -1,0 +1,19 @@
+{
+  "name": "tugas-mock-test-fsw",
+  "version": "1.0.0",
+  "description": "challenge untuk mock test fsw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamanggans/MOCK_TEST_FERDIANSYAH_BE1.git"
+  },
+  "author": "ferdiansya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mamanggans/MOCK_TEST_FERDIANSYAH_BE1/issues"
+  },
+  "homepage": "https://github.com/Mamanggans/MOCK_TEST_FERDIANSYAH_BE1#readme"
+}
