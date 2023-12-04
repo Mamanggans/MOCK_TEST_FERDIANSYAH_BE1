@@ -4,7 +4,7 @@
   "description": "challenge untuk mock test fsw",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Mamanggans/MOCK_TEST_FERDIANSYAH_BE1/issues"
   },
-  "homepage": "https://github.com/Mamanggans/MOCK_TEST_FERDIANSYAH_BE1#readme"
+  "homepage": "https://github.com/Mamanggans/MOCK_TEST_FERDIANSYAH_BE1#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2"
+  }
 }
